@@ -1,4 +1,6 @@
 # Crna-expo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/crna-expo.svg)](https://greenkeeper.io/)
 > A react-native playground.
 
 ## Step
